@@ -144,12 +144,12 @@ This repository is the official implementation of Beyond Worst Case Analysis of 
 | 0.078 +/-  0.002  | 0.067 +/-  0.002  | 0.071 +/-  0.002  | 0.072 +/-  0.002  |
 
 ### [Figure 2]
-![N(20,5)](pictures/gaussian.png)
-![Unif(0,40)](pictures/uniform.png)
-![Exp(20)](pictures/exponential.png)
+![N(20,5)](gaussian.png)
+![Unif(0,40)](uniform.png)
+![Exp(20)](exponential.png)
 
 ### [Figure 3]
-![2 budgets](./pictures/2_budget.png)
+![2 budgets](2_budget.png)
 
 ## Contributing
 
